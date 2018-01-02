@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT z_test_tag.
 
-cl_demo_output=>display( |0.1| ).
+cl_demo_output=>display( |0.2| ).
